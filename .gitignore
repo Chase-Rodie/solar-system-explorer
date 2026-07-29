@@ -1,3 +1,27 @@
-# Ignore Visual Studio cache files
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Visual Studio cache
 .vs/
 *.ipch
+
+# Build output
+x64/
+x86/
+Debug/
+Release/
+
+# Compiled and generated files
+*.obj
+*.exe
+*.dll
+*.ilk
+*.pdb
+*.exp
+
+# Visual Studio user-specific files
+*.user
+*.suo
+*.VC.db
+*.VC.opendb
